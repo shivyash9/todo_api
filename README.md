@@ -3,7 +3,7 @@
 ## Overview
 
 This is a simple **To-Do List API** built using **Ruby on Rails** with **SQLite3**. It allows users to **create**, **list**, **update**, and **delete** tasks. Each task has a **status enum**, an **assigned\_to** field, and timestamps.
-
+Also related **rspec** are included 
 ---
 
 ## Features
